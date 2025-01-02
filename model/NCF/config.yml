@@ -1,0 +1,7 @@
+# 模型在Movielens数据集上的配置
+num_users: 138493
+num_items: 27278
+num_user_embedding: 138493
+num_item_embedding: 26744
+embedding_dim: 32
+dropout: 0.1
